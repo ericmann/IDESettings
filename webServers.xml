@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b1ee741-f578-45df-90cb-30ef2467e81f" name="EAM.me" url="http://50.61.156.175">
+        <fileTransfer host="50.61.156.175" port="22" rootFolder="/var/www/ecosite" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
