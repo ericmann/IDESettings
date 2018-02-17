@@ -29,19 +29,19 @@
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern="testers" type="PLAIN_TEXT" />
       <mapping pattern="logappend" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="GQVCOYSB" type="PLAIN_TEXT" />
       <mapping pattern="validate_auth" type="PLAIN_TEXT" />
       <mapping pattern="FKPBGUGT" type="PLAIN_TEXT" />
-      <mapping pattern="HMWUEBMX" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern="DJTJWKJK" type="PLAIN_TEXT" />
       <mapping pattern="batch1m" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST-000002" type="PLAIN_TEXT" />
       <mapping pattern="PHIMQLSQ" type="PLAIN_TEXT" />
+      <mapping pattern="JASWJHSM" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="ABPWSNXI" type="PLAIN_TEXT" />
-      <mapping pattern="batch" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="logread" type="PLAIN_TEXT" />
       <mapping pattern="TSJDTIKF" type="PLAIN_TEXT" />
       <mapping pattern="DJLGCOYP" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
@@ -52,23 +52,23 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="HOQHJVYG" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping pattern="Customfile" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern="1 Corinthians" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="ENDKNXXK" type="PLAIN_TEXT" />
       <mapping pattern="HOJWOSDA" type="PLAIN_TEXT" />
       <mapping pattern="GERDA" type="PLAIN_TEXT" />
-      <mapping pattern="EHBSUMYJ" type="PLAIN_TEXT" />
       <mapping pattern="DJDSCIDV" type="PLAIN_TEXT" />
-      <mapping pattern="DHEYCFCB" type="PLAIN_TEXT" />
       <mapping pattern="class-elasticpress-cli-command" type="PLAIN_TEXT" />
-      <mapping pattern="IQSVAEDU" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FQRAUGHL" type="PLAIN_TEXT" />
       <mapping pattern="KEVOHYXC" type="PLAIN_TEXT" />
-      <mapping pattern="urls" type="PLAIN_TEXT" />
-      <mapping pattern="docker-php-ext-configure" type="PLAIN_TEXT" />
       <mapping pattern="SKBOXXLZ" type="PLAIN_TEXT" />
+      <mapping pattern="urls" type="PLAIN_TEXT" />
+      <mapping pattern="1 Corinthians" type="PLAIN_TEXT" />
+      <mapping pattern="IQSVAEDU" type="PLAIN_TEXT" />
+      <mapping pattern="SJJTLTXZ" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-ext-configure" type="PLAIN_TEXT" />
+      <mapping pattern="EHBSUMYJ" type="PLAIN_TEXT" />
       <mapping pattern="BIOCBBBK" type="PLAIN_TEXT" />
       <mapping pattern="lansa" type="PLAIN_TEXT" />
       <mapping pattern=".logdb" type="PLAIN_TEXT" />
@@ -78,8 +78,7 @@
       <mapping pattern="DGIGRRRI" type="PLAIN_TEXT" />
       <mapping pattern="FIKRAXDL" type="PLAIN_TEXT" />
       <mapping pattern="alaises" type="PLAIN_TEXT" />
-      <mapping pattern="SJJTLTXZ" type="PLAIN_TEXT" />
-      <mapping pattern="logread" type="PLAIN_TEXT" />
+      <mapping pattern="Customfile" type="PLAIN_TEXT" />
       <mapping pattern="AHJXGDKM" type="PLAIN_TEXT" />
       <mapping pattern="HKHAWYQS" type="PLAIN_TEXT" />
       <mapping pattern="RZQQVJXJ" type="PLAIN_TEXT" />
@@ -96,12 +95,13 @@
       <mapping pattern="YXMZYNAT" type="PLAIN_TEXT" />
       <mapping pattern="DWRNFJCM" type="PLAIN_TEXT" />
       <mapping pattern="IWDNPOFK" type="PLAIN_TEXT" />
-      <mapping pattern="JASWJHSM" type="PLAIN_TEXT" />
+      <mapping pattern="DHEYCFCB" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-enable" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="batch" type="PLAIN_TEXT" />
       <mapping pattern="ITUVYZPM" type="PLAIN_TEXT" />
       <mapping pattern="RYYGHOQO" type="PLAIN_TEXT" />
       <mapping pattern="RCWOOJRL" type="PLAIN_TEXT" />
+      <mapping pattern="HMWUEBMX" type="PLAIN_TEXT" />
       <mapping pattern="bin/sbar" type="PLAIN_TEXT" />
       <mapping pattern="QEGCKKYZ" type="PLAIN_TEXT" />
       <mapping pattern="EWBACWZB" type="PLAIN_TEXT" />
@@ -120,6 +120,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="un" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
+      <mapping ext="sig2" type="PLAIN_TEXT" />
       <mapping ext="sig" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
