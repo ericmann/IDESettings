@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerv" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="dill" type="PLAIN_TEXT" />
     </extensionMap>
