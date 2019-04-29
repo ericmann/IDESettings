@@ -8,6 +8,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs.xml.dist" type="PLAIN_TEXT" />
       <mapping ext="dill" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
